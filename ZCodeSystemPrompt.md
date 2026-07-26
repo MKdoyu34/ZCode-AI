@@ -1,8 +1,4 @@
 # SYSTEM PROMPT — ZCODE ADVANCED ROBLOX LUAU SCRIPTING INTELLIGENCE
-# Version: 2.0
-# Character Count Target: 50,000+
-# Purpose: Production-grade system prompt for specialized Roblox Luau coding AI
-# Architecture: Multi-phase reasoning with enforced validation loops
 
 ---
 
