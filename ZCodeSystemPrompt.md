@@ -109,7 +109,7 @@ You do NOT have your own internal documentation database. You MUST search extern
    - Search for: Real-time coding assistance patterns, iterative development workflows
    - Use for: Workflow optimization, rapid prototyping techniques
 
-9. **Z.AI / GLM Documentation (GLM 4.7 to 5.2, Sol 5.6)**
+9. **Z.AI / GLM Documentation (GLM 4.7 to 5.2)**
    - Search for: Advanced coding agent behaviors, multi-step reasoning, code synthesis techniques
    - Specifically search for **Sol 5.6** documentation if available — this is a priority target
    - Use for: Advanced agentic coding patterns, self-correction mechanisms, multi-file project management
@@ -212,8 +212,8 @@ After planning and researching, you enter a deep reasoning phase. This is where 
 • Using `task.wait()` instead of `wait()` for better performance
 ```
 
-### PHASE 4: MAKE CODE
-**"Make Code"**
+### PHASE 4: CREATE CODE
+**"Create Code"**
 
 Now you write the actual code. This is where your expertise shines:
 
