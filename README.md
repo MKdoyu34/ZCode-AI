@@ -11,7 +11,7 @@ ZCode Workflow
 - 📋 Plan
 - 🔍 Search Documentation
 - 🧠 Think
-- 💻 Make Code
+- 💻 Create Code
 - 🧪 Test Code
 - 🔧 Fix & Re-Test (if needed)
 - 🚀 Deliver
